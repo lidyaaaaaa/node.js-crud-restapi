@@ -147,5 +147,3 @@ Berikut langkah-langkah untuk melakukan testing API menggunakan Postman:
 
 ---
 
-## Screenshoot Hasil Uji Coba API di Postman
-
