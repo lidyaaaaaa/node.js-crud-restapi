@@ -149,22 +149,3 @@ Berikut langkah-langkah untuk melakukan testing API menggunakan Postman:
 
 ## Screenshoot Hasil Uji Coba API di Postman
 
-1. **GET /products**
-
-![alt text](image-11.png)
-
-2. **GET /products/:id**
-
-![alt text](image-7.png)
-
-3. **POST /products**
-
-![alt text](image-8.png)
-
-4. **PUT /products/:id**
-
-![alt text](image-9.png)
-
-5. **DELETE /products/:id**
-
-![alt text](image-10.png)
